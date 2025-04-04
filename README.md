@@ -24,7 +24,7 @@ The analysis delivered actionable insights for cost optimization, including clea
 ## 📈 Let’s leverage data-driven strategies to drive cost optimization and operational excellence in the telecom industry!
 
 ## Contact Information:
-- [LinkedIn](https://www.linkedin.com/in/muhammad-umer-adeeb/)
+- **LinkedIn**: [Muhammad Umer Adeeb](https://www.linkedin.com/in/muhammad-umer-adeeb/)
 - Email: [umeradeeb94@gmail.com](mailto:umeradeeb94@gmail.com)
 - Phone Number: +923412114514
 
