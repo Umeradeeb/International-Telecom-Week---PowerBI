@@ -28,5 +28,9 @@ The analysis delivered actionable insights for cost optimization, including clea
 - **Email**: [umeradeeb94@gmail.com](mailto:umeradeeb94@gmail.com)
 - **Phone Number**: +923412114514
 
+## Video Presentation:
+[Presentation](https://www.linkedin.com/posts/muhammad-umer-adeeb_dataanalysis-telecomweek-internationaltelecom-activity-7285644020280688640-9Iep?utm_source=share&utm_medium=member_desktop&rcm=ACoAABRRmngBovrUN-82nXDoZjMcSst7t_yBB3A)
+
+
 ## Explore Interactive Analysis:
 [Interactive Analysis Here](https://lnkd.in/eYggt6CQ)
