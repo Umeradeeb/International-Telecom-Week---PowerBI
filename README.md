@@ -25,8 +25,8 @@ The analysis delivered actionable insights for cost optimization, including clea
 
 ## Contact Information:
 - **LinkedIn**: [Muhammad Umer Adeeb](https://www.linkedin.com/in/muhammad-umer-adeeb/)
-- Email: [umeradeeb94@gmail.com](mailto:umeradeeb94@gmail.com)
-- Phone Number: +923412114514
+- **Email**: [umeradeeb94@gmail.com](mailto:umeradeeb94@gmail.com)
+- **Phone Number**: +923412114514
 
 ## Explore Interactive Analysis:
 [Interactive Analysis Here](https://lnkd.in/eYggt6CQ)
